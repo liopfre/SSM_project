@@ -1,0 +1,6 @@
+com\qianfeng\controller\PermissionController.class
+com\qianfeng\controller\RoleController.class
+com\qianfeng\controller\OrderController.class
+com\qianfeng\controller\ProductController.class
+com\qianfeng\controller\UserController.class
+com\qianfeng\controller\SysLogController.class

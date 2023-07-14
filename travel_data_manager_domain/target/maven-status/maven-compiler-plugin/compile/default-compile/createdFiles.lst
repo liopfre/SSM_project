@@ -1,0 +1,8 @@
+com\qianfeng\domain\Role.class
+com\qianfeng\domain\Permissions.class
+com\qianfeng\domain\Orders.class
+com\qianfeng\domain\SysLog.class
+com\qianfeng\domain\Product.class
+com\qianfeng\domain\Traveller.class
+com\qianfeng\domain\Member.class
+com\qianfeng\domain\UserInfo.class

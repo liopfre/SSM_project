@@ -1,0 +1,12 @@
+com\qianfeng\service\IProductService.class
+com\qianfeng\service\impl\OrderServiceImpl.class
+com\qianfeng\service\impl\SysLogServiceImpl.class
+com\qianfeng\service\IRoleService.class
+com\qianfeng\service\IPermissionService.class
+com\qianfeng\service\impl\ProductServiceImpl.class
+com\qianfeng\service\impl\UserServiceImpl.class
+com\qianfeng\service\IUserService.class
+com\qianfeng\service\ISysLogService.class
+com\qianfeng\service\impl\PermissionServiceImpl.class
+com\qianfeng\service\IOrderService.class
+com\qianfeng\service\impl\RoleServiceImpl.class
